@@ -9,4 +9,4 @@ A personalized romantic message card made with HTML, CSS, and JavaScript, featur
 - `photo.jpg` — photo displayed on the card
 
 ## How to use
-Keep all four files in the same folder, then open `index.html` in a web browser.
+Keep all four files in the same folder, then open [`index.html`](https://justinesumayang022107-bot.github.io/Digital-LETTER-for-you-my-Love/) in a web browser.
